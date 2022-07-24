@@ -2,8 +2,8 @@
 ### I am a Technical Designer & Game Programmer specialized in Unreal Engine & Unity.
 
 ## Skills:
-![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
-![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
+[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)</br>
+[![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
 
 <!--
 **gerlogu/gerlogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
