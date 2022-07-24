@@ -1,5 +1,5 @@
 # 👋 Hello there, my name is Germán López
-#### I am a Technical Designer & Game Programmer specialized in Unreal Engine & Unity.
+### I am a Technical Designer & Game Programmer specialized in Unreal Engine & Unity.
 
 ### Skills:
 ![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
