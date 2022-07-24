@@ -1,6 +1,5 @@
 # 👋 Hi there, my name is Germán López
-**I am a Technical Designer & Game Programmer specialized in Unreal Engine & Unity.**
-### Hi there 
+### I am a Technical Designer & Game Programmer specialized in Unreal Engine & Unity.
 
 <!--
 **gerlogu/gerlogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
