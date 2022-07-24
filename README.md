@@ -1,6 +1,9 @@
 # 👋 Hi there, my name is Germán López
 #### I am a Technical Designer & Game Programmer specialized in Unreal Engine & Unity.
 
+###Skills:
+![UnrealEngine](https://img.shields.io/badge/Android-3DOC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+
 <!--
 **gerlogu/gerlogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
