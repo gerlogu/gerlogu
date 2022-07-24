@@ -39,7 +39,6 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 
 ## Contact
 [![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here!-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
-
 [![ContactForm](https://img.shields.io/badge/EMAIL-contact@gerlogu.com-0066A1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contact@gerlogu.com)</br>
 
 <!--
