@@ -13,7 +13,7 @@ I joined multiple game jams such as Texel Jam 2018, where my team was winner of 
 
 Now, in 2022, I am looking for finishing my university studies and adquire new knowledge in order to jump into the world of work.
 
-## Skills:
+## Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
 [![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
 ![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
@@ -22,7 +22,7 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 
-## Find me at:
+## Find me at
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu_Games-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A)</br>
@@ -30,6 +30,9 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 ### Spanish
 [![Website](https://img.shields.io/badge/Mi_Página_Web-gerlogu.com/es-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/es)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/gerlogu)</br>
+
+## Demo Reel
+[![DemoReel](https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg)](https://www.youtube.com/watch?v=Wy-5Bjlhrrk)
 
 ## Contact
 [![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here!-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
