@@ -1,3 +1,5 @@
+# GERMÁN LÓPEZ
+## Technical Designer & Game Programmer
 ### Hi there 👋
 
 <!--
