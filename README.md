@@ -20,7 +20,11 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 ## Find me at:
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
-[![Youtube](https://img.shields.io/badge/YouTube-Gerlogu_Games-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://gerlogu.com/](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A))</br>
+[![Youtube](https://img.shields.io/badge/YouTube-Gerlogu_Games-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A)</br>
+
+### Spanish
+[![Website](https://img.shields.io/badge/Mi_Página_Web-gerlogu.com/es-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/es)
+[![Youtube](https://img.shields.io/badge/YouTube-Gerlogu-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/gerlogu)</br>
 
 <!--
 **gerlogu/gerlogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
