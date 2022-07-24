@@ -32,7 +32,7 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/gerlogu)</br>
 
 ## Demo Reel
-[![DemoReel](https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg)](https://www.youtube.com/watch?v=Wy-5Bjlhrrk)
+[![DemoReel](https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg)](https://gerlogu.com/demo-reel)
 
 ## Contact
 [![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here!-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
