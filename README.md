@@ -1,5 +1,5 @@
-# GERMÁN LÓPEZ
-## Technical Designer & Game Programmer
+# Hi there, my name is Germán Lóepez
+**I am a Technical Designer & Game Programer specialized in Unreal Engine 5 & Unity.
 ### Hi there 👋
 
 <!--
