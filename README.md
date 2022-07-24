@@ -26,6 +26,11 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 [![Website](https://img.shields.io/badge/Mi_Página_Web-gerlogu.com/es-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/es)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/gerlogu)</br>
 
+## Contact
+[![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here-cf2000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
+
+[![ContactForm](https://img.shields.io/badge/EMAIL-contact@gerlogu.com-cf2000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contact@gerlogu.com)</br>
+
 <!--
 **gerlogu/gerlogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
