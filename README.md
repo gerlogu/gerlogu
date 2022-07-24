@@ -27,6 +27,7 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu_Games-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A)
+[![Instagram](https://img.shields.io/badge/Instagram-@gerlogu-ed3e90?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/gerlogu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez)</br>
 
 ### Spanish
