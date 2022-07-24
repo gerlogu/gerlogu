@@ -20,7 +20,7 @@ Now, in 2022, I am looking for finishing my university studies and adquire new k
 [![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
 ### English
