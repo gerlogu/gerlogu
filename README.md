@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Germán López
-**I am a Technical Designer & Game Programer specialized in Unreal Engine 5 & Unity.**
+**I am a Technical Designer & Game Programmer specialized in Unreal Engine & Unity.**
 ### Hi there 
 
 <!--
