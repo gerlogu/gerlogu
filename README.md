@@ -11,6 +11,14 @@ I joined multiple game jams such as Texel Jam 2018, where my team was winner of 
 
 Now, in 2022, I am looking for finishing my university studies and adquire new knowledge in order to jump into the game industry.
 
+```javascript
+const gerlogu = {
+  pronouns: "he" | "him",
+  architecture: ["event-driven", "data-driven"],
+  motivation: "My main objective is to develop fun and unforgettable games where gameplay is the main attraction"
+}
+```
+
 ## Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
 [![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
