@@ -1,4 +1,4 @@
-# 👋 Hello there, my name is Germán López
+# <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López
 ### I am a Technical Game Designer & Programmer specialized in Unreal Engine & Unity.
 
 I studied Game Design and Development at Rey Juan Carlos University, on Madrid. During this degree I worked on numerous projects which I highlight Into the Cave, Revenge .44, Shinobi no Noboru and my TFG project: Stigma Protocol.
@@ -11,6 +11,7 @@ I joined multiple game jams such as Texel Jam 2018, where my team was winner of 
 
 Now, in 2022, I am looking for finishing my university studies and adquire new knowledge in order to jump into the game industry.
 
+## <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="40"> A little more about me...
 ```javascript
 const gerlogu = {
   pronouns: "he" | "him",
@@ -19,7 +20,7 @@ const gerlogu = {
 }
 ```
 
-## Skills
+## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
 [![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
 ![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
@@ -29,7 +30,7 @@ const gerlogu = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 
-## Find me at
+## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40"> Find me at
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu_Games-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A)
@@ -43,12 +44,12 @@ const gerlogu = {
 [![TikTok](https://img.shields.io/badge/TikTok-@gerlogu29-9441fa?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@gerlogu29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez/?locale=es_ES)</br>
 
-## Demo Reel
+## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="40"> Demo Reel
 <!--[![DemoReel](https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg)](https://gerlogu.com/demo-reel)-->
 <a href="https://gerlogu.com/demo-reel" target="_blank"><img src="https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg" align="center" height="300" width="400" ></a></br>
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**⇥ WATCH HERE ⇤**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://gerlogu.com/demo-reel)
 
-## Contact
+## <img src="https://media.giphy.com/media/Kd50RekczEUQXIk7FN/giphy.gif" width="40"> Contact
 [![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here!-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
 [![ContactForm](https://img.shields.io/badge/EMAIL-contact@gerlogu.com-0066A1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contact@gerlogu.com)</br>
 
