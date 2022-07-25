@@ -44,12 +44,12 @@ const gerlogu = {
 [![TikTok](https://img.shields.io/badge/TikTok-@gerlogu29-9441fa?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@gerlogu29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez/?locale=es_ES)</br>
 
-## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="40"> Demo Reel
+## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Demo Reel
 <!--[![DemoReel](https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg)](https://gerlogu.com/demo-reel)-->
 <a href="https://gerlogu.com/demo-reel" target="_blank"><img src="https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg" align="center" height="300" width="400" ></a></br>
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**⇥ WATCH HERE ⇤**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://gerlogu.com/demo-reel)
 
-## <img src="https://media.giphy.com/media/Kd50RekczEUQXIk7FN/giphy.gif" width="40"> Contact
+## <img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width="40"> Contact
 [![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here!-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
 [![ContactForm](https://img.shields.io/badge/EMAIL-contact@gerlogu.com-0066A1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contact@gerlogu.com)</br>
 
