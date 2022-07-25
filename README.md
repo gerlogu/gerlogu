@@ -30,7 +30,7 @@ const gerlogu = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 
-## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Find me at
+## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu_Games-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A)
@@ -44,7 +44,7 @@ const gerlogu = {
 [![TikTok](https://img.shields.io/badge/TikTok-@gerlogu29-9441fa?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@gerlogu29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez/?locale=es_ES)</br>
 
-## <img src="https://media.giphy.com/media/KPYvDoGB4C45mEzawv/giphy.gif" width="40"> Demo Reel
+## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Demo Reel
 <!--[![DemoReel](https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg)](https://gerlogu.com/demo-reel)-->
 <a href="https://gerlogu.com/demo-reel" target="_blank"><img src="https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg" align="center" height="300" width="400" ></a></br>
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**⇥ WATCH HERE ⇤**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://gerlogu.com/demo-reel)
