@@ -9,7 +9,7 @@ I am currently studying Game Design Master's Degree at U-tad, on Las Rozas. 
 
 I joined multiple game jams such as Texel Jam 2018, where my team was winner of the public vote, and URJam 2020, where my team was also the winner, but this time by the jury.
 
-Now, in 2022, I am looking for finishing my university studies and adquire new knowledge in order to jump into the world of work.
+Now, in 2022, I am looking for finishing my university studies and adquire new knowledge in order to jump into the game industry.
 
 ## Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
