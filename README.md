@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López
 ### I am a Technical Game Designer & Programmer specialized in Unreal Engine & Unity.
 
-I studied Game Design and Development at Rey Juan Carlos University, on Madrid. During this degree I worked on numerous projects which I highlight Into the Cave, Revenge .44, Shinobi no Noboru and my TFG project: Stigma Protocol.
+I studied Game Design and Development at Rey Juan Carlos University, on Madrid. During this degree I worked on numerous projects, among which I highlight Into the Cave, Revenge .44, Shinobi no Noboru and my TFG project: Stigma Protocol.
 
 In addition, in the degree I have had to make use of different programming languages such as C++, C#, Javascript, Java and C, along with game engines like Unity, Unreal Engine 4 or Gamemaker Studio.
 
