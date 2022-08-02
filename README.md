@@ -49,6 +49,30 @@ const gerlogu = {
 <a href="https://gerlogu.com/demo-reel" target="_blank"><img src="https://img.youtube.com/vi/Wy-5Bjlhrrk/0.jpg" align="center" height="300" width="400" ></a></br>
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**⇥ WATCH HERE ⇤**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://gerlogu.com/demo-reel)
 
+## <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30"> Featured Projects
+
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://github.com/gerlogu/CustomInGameConsole">
+  		<img src="https://user-images.githubusercontent.com/55363746/182420184-7a1916d7-9bef-48fc-9eaa-0e733db8621a.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">
+  		<img src="https://user-images.githubusercontent.com/55363746/182420070-04b689e0-0f8d-4bc7-be26-0b16666297dc.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://github.com/gerlogu/BulletHellEditor">
+  		<img src="https://user-images.githubusercontent.com/55363746/182422696-0b13ecf3-1af5-440a-9a27-731b771a9b73.jpg">
+	</a>
+	</td>
+  </tr>
+  <tr>
+
+</table>
+
 ## <img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width="40"> Contact
 [![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here!-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
 [![ContactForm](https://img.shields.io/badge/EMAIL-contact@gerlogu.com-0066A1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contact@gerlogu.com)</br>
