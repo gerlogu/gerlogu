@@ -69,8 +69,6 @@ const gerlogu = {
 	</a>
 	</td>
   </tr>
-  <tr>
-
 </table>
 
 ## <img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width="40"> Contact
