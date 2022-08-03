@@ -57,7 +57,7 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/CustomInGameConsole">
   		<img src="https://user-images.githubusercontent.com/55363746/182420184-7a1916d7-9bef-48fc-9eaa-0e733db8621a.jpg">
 	</a>
-	Custom In Game Console (UE)
+	Custom In Game Commands
 	</td>
     <td>
 	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">
