@@ -69,7 +69,7 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/BulletHellEditor">
   		<img src="https://user-images.githubusercontent.com/55363746/182422696-0b13ecf3-1af5-440a-9a27-731b771a9b73.jpg">
 	</a>
-	<a href="https://github.com/gerlogu/BulletHellEditor">Bullet Hell Editor / Shmup Dev kit</a>
+	<a href="https://github.com/gerlogu/BulletHellEditor">Bullet Hell Editor / Shmup Kit (UE)</a>
 	</td>
   </tr>
   <tr>
