@@ -57,19 +57,39 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/CustomInGameConsole">
   		<img src="https://user-images.githubusercontent.com/55363746/182420184-7a1916d7-9bef-48fc-9eaa-0e733db8621a.jpg">
 	</a>
-	Custom In Game Console (UE)
+	<a href="https://github.com/gerlogu/CustomInGameConsole">Custom In Game Console (UE)</a>
 	</td>
     <td>
 	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">
   		<img src="https://user-images.githubusercontent.com/55363746/182420070-04b689e0-0f8d-4bc7-be26-0b16666297dc.jpg">
 	</a>
-	Ratchet & Clank UE Prototype
+	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">Ratchet & Clank UE Prototype</a>
 	</td>
     <td>
 	<a href="https://github.com/gerlogu/BulletHellEditor">
   		<img src="https://user-images.githubusercontent.com/55363746/182422696-0b13ecf3-1af5-440a-9a27-731b771a9b73.jpg">
 	</a>
-	Bullet Hell Editor / Shmup Dev kit
+	<a href="https://github.com/gerlogu/BulletHellEditor">Bullet Hell Editor / Shmup Dev kit</a>
+	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="https://github.com/gerlogu/GraphDialogueSystem">
+  		<img src="https://user-images.githubusercontent.com/55363746/196035949-96a8312b-c6a3-45b1-8bdd-c6a1b78bc2a8.jpg">
+	</a>
+	<a href="https://github.com/gerlogu/GraphDialogueSystem">Graph Dialogue System (UE)</a>
+	</td>
+    <td>
+	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">
+  		<img src="https://user-images.githubusercontent.com/55363746/196036095-691f6af4-5f9b-49b6-85d3-05f69de70449.jpg">
+	</a>
+	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">Procedural FPS System (UE)</a>
+	</td>
+    <td>
+	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">
+  		<img src="https://user-images.githubusercontent.com/55363746/196036530-2de28e53-7101-4a15-8488-273e60384366.jpg">
+	</a>
+	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a>
 	</td>
   </tr>
 </table>
