@@ -58,7 +58,7 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/FixedCameraSystem">
   		<img src="https://user-images.githubusercontent.com/55363746/219978820-c7b7613f-b376-4593-9f50-528c34ff0d24.jpg">
 	</a>
-	<a href="https://github.com/gerlogu/FixedCameraSystem">Fixed Camera System (UE)</a>
+	<a href="https://github.com/gerlogu/FixedCameraSystem">Fixed Camera Tools (UE)</a>
 	</td>
     <td>
 	<a href="https://github.com/gerlogu/CustomInGameConsole">
