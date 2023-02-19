@@ -20,6 +20,7 @@ const gerlogu = {
 }
 ```
 
+
 ## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
 [![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
@@ -54,6 +55,12 @@ const gerlogu = {
 <table style="width:100%">
   <tr>
     <td>
+	<a href="https://github.com/gerlogu/FixedCameraSystem">
+  		<img src="https://user-images.githubusercontent.com/55363746/219978820-c7b7613f-b376-4593-9f50-528c34ff0d24.jpg">
+	</a>
+	<a href="https://github.com/gerlogu/FixedCameraSystem">Fixed Camera System (UE)</a>
+	</td>
+    <td>
 	<a href="https://github.com/gerlogu/CustomInGameConsole">
   		<img src="https://user-images.githubusercontent.com/55363746/182420184-7a1916d7-9bef-48fc-9eaa-0e733db8621a.jpg">
 	</a>
@@ -65,14 +72,14 @@ const gerlogu = {
 	</a>
 	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">Ratchet & Clank UE Prototype</a>
 	</td>
+  </tr>
+  <tr>
     <td>
 	<a href="https://github.com/gerlogu/BulletHellEditor">
   		<img src="https://user-images.githubusercontent.com/55363746/182422696-0b13ecf3-1af5-440a-9a27-731b771a9b73.jpg">
 	</a>
 	<a href="https://github.com/gerlogu/BulletHellEditor">Bullet Hell Editor / Shmup Kit (UE)</a>
-	</td>
-  </tr>
-  <tr>
+    </td>
     <td>
 	<a href="https://github.com/gerlogu/GraphDialogueSystem">
   		<img src="https://user-images.githubusercontent.com/55363746/196035949-96a8312b-c6a3-45b1-8bdd-c6a1b78bc2a8.jpg">
@@ -84,12 +91,6 @@ const gerlogu = {
   		<img src="https://user-images.githubusercontent.com/55363746/196036095-691f6af4-5f9b-49b6-85d3-05f69de70449.jpg">
 	</a>
 	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">Procedural FPS System (UE)</a>
-	</td>
-    <td>
-	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">
-  		<img src="https://user-images.githubusercontent.com/55363746/196036530-2de28e53-7101-4a15-8488-273e60384366.jpg">
-	</a>
-	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a>
 	</td>
   </tr>
 </table>
