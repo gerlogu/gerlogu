@@ -93,6 +93,15 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/FixedCameraSystem">Fixed Camera System (UE)</a>
 	</td>
   </tr>
+<tr>	
+	</td>
+	  <td>
+	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">
+  		<img src="https://user-images.githubusercontent.com/55363746/196036530-2de28e53-7101-4a15-8488-273e60384366.jpg">
+	</a>
+	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a>
+	</td>
+	</tr>
 </table>
 
 ## <img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width="40"> Contact
