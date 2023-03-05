@@ -47,7 +47,8 @@ const gerlogu = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez/?locale=es_ES)</br>
 
 ## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Demo Reel
-[![1666350254701-transformed (1)](https://user-images.githubusercontent.com/55363746/222960632-aa9d8974-6a2d-4453-9d53-dc49338a65ea.png)](https://gerlogu.com/demo-reel)
+[![1666350254701-transformed (1)](https://user-images.githubusercontent.com/55363746/222960872-173c5cf3-be89-452f-8f11-2e0bf168739c.png)](https://gerlogu.com/demo-reel)
+
 
 ## <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30"> Featured Projects
 
