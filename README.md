@@ -1,9 +1,9 @@
 # <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López
 ### I am a Technical Game Designer & Programmer specialized in Unreal Engine & Unity.
 
-In 2017 I started my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight Into the Cave, Revenge .44, Shinobi no Noboru, and my Final Thesis Project: Stigma Protocol.
+In 2017 I started my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight _[Into the Cave](https://gerlogu.com/portfolio/into-the-cave/)_, _[Revenge .44](https://gerlogu.com/portfolio/revenge-44/)_, _[Shinobi no Noboru](https://gerlogu.com/portfolio/shinobi-no-noboru/)_, and my Final Thesis Project: _[Stigma Protocol](https://gerlogu.com/portfolio/stigma-protocol/)_.
 
-In addition, in the degree, I have had to make use of different programming languages such as C++, C#, JavaScript, Java, and C, along with game engines like Unity, Unreal Engine, and GameMaker Studio.
+In addition, in the degree, I have had to make use of different programming languages such as **C++**, **C#**, JavaScript, Java, and C, along with game engines like **Unity**, **Unreal Engine**, and GameMaker Studio.
 
 During this period I joined multiple game jams such as Texel Jam 2018, where my team was the winner of the public vote, and URJam 2020, where my team was also the winner, but this time by the jury.
 
