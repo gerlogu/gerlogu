@@ -1,15 +1,17 @@
 # <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López
 ### I am a Technical Game Designer & Programmer specialized in Unreal Engine & Unity.
 
-I studied Game Design and Development at Rey Juan Carlos University, on Madrid. During this degree I worked on numerous projects, among which I highlight Into the Cave, Revenge .44, Shinobi no Noboru and my TFG project: Stigma Protocol.
+In 2017 I started my journey in this industry starting a Bachelor’s Degree in Game Design and Development at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight Into the Cave, Revenge .44, Shinobi no Noboru, and my Final Thesis Project: Stigma Protocol.
 
-In addition, in the degree I have had to make use of different programming languages such as C++, C#, Javascript, Java and C, along with game engines like Unity, Unreal Engine 4 or Gamemaker Studio.
+In addition, in the degree, I have had to make use of different programming languages such as C++, C#, JavaScript, Java, and C, along with game engines like Unity, Unreal Engine, and GameMaker Studio.
 
-I am currently studying Game Design Master's Degree at U-tad, on Las Rozas. 
+During this period I joined multiple game jams such as Texel Jam 2018, where my team was the winner of the public vote, and URJam 2020, where my team was also the winner, but this time by the jury.
 
-I joined multiple game jams such as Texel Jam 2018, where my team was winner of the public vote, and URJam 2020, where my team was also the winner, but this time by the jury.
+In 2022 I finished a Master’s Degree in Game Design at U-tad, in Las Rozas. 
 
-Now, in 2022, I am looking for finishing my university studies and adquire new knowledge in order to jump into the game industry.
+During this master, my project, Howl of Iron, received the Best Game Design Award at the PlayStation Awards 2022.
+
+Now, in 2023, I am working as a Regular Technical Designer at Bohemia Interactive in one of their latest games: Vigor.
 
 ## <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="40"> A little more about me...
 ```javascript
