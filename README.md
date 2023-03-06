@@ -7,7 +7,7 @@ In addition, in the degree, I have had to make use of different programming lang
 
 During this period I joined multiple game jams such as Texel Jam 2018, where my team was the winner of the public vote, and URJam 2020, where my team was also the winner, but this time by the jury.
 
-In 2022 I finished a **Master’s Degree in Game Design** at U-tad, in Las Rozas. 
+In 2021 I started a **Master’s Degree in Game Design** at U-tad, in Las Rozas. 
 
 During this period, I started publishing assets and plugins in the UE Marketplace, being one of these assets **[Showcased by Epic Games](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/)**.
 
