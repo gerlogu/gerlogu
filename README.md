@@ -9,7 +9,7 @@ During this period I joined multiple game jams such as Texel Jam 2018, where my 
 
 In 2021 I started a **Master’s Degree in Game Design** at U-tad, in Las Rozas. 
 
-During this period, I started publishing assets and plugins in the UE Marketplace, being one of these assets **[showcased by Epic Games](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/)** and promoted on its landing page.
+During this period, I started publishing assets and plugins in the **UE Marketplace**, being one of these assets **[showcased by Epic Games](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/)** and promoted on its landing page.
 
 After finishing this Master’s Degree, my project, Howl of Iron, received the **[Best Game Design Award at the PlayStation Awards 2022](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/)**.
 
