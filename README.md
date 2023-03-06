@@ -13,7 +13,7 @@ During this period, I started publishing assets and plugins in the **UE Marketpl
 
 After finishing this Master’s Degree, my project, Howl of Iron, received the **[Best Game Design Award at the PlayStation Awards 2022](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/)**.
 
-Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games: Vigor.
+Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games for consoles: **Vigor**.
 
 ## <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="40"> A little more about me...
 ```javascript
