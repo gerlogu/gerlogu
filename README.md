@@ -61,19 +61,19 @@ const gerlogu = {
   <tr>
     <td>
 	<a href="https://github.com/gerlogu/CustomInGameConsole">
-  		<img src="https://user-images.githubusercontent.com/55363746/223197567-93cbf2f7-45d1-4631-8639-1490245c947b.png">
+  		<img src="https://user-images.githubusercontent.com/55363746/223208469-a9a4121d-4ad2-4e92-ac4a-cfe2339ab945.png">
 	</a>
 	<a href="https://github.com/gerlogu/CustomInGameConsole">Custom In Game Console (UE)</a>
 	</td>
     <td>
 	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">
-  		<img src="https://user-images.githubusercontent.com/55363746/223197808-75e217a7-a613-484a-9b37-b2ab0ddab339.png">
+  		<img src="https://user-images.githubusercontent.com/55363746/223208528-3b384af1-d107-4579-879c-375df4999823.png">
 	</a>
 	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">Ratchet & Clank UE Prototype</a>
 	</td>
     <td>
 	<a href="https://github.com/gerlogu/BulletHellEditor">
-  		<img src="https://user-images.githubusercontent.com/55363746/223198009-74669d87-4bf4-448b-b00b-c8189a465a2a.png">
+  		<img src="https://user-images.githubusercontent.com/55363746/223208626-4842ff8d-8239-4ed3-86d7-3eca445c3794.png">
 	</a>
 	<a href="https://github.com/gerlogu/BulletHellEditor">Bullet Hell Editor / Shmup Kit (UE)</a>
 	</td>
