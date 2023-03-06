@@ -106,6 +106,9 @@ const gerlogu = {
 	</a>
 	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a>
 	</td>
+	<td>
+	<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gerlogu&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+	</td>
 	</tr>
 </table>
 
