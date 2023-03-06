@@ -85,18 +85,15 @@ const gerlogu = {
 	</a>
 	<a href="https://github.com/gerlogu/GraphDialogueSystem">Graph Dialogue System (UE)</a>
 	</td>
-    <td>
-	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">
-  		<img src="https://user-images.githubusercontent.com/55363746/223209045-8e74d278-7e4d-441a-b962-6fe53a9f2494.png">
-	</a>
-	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">Procedural FPS System (UE)</a>
-	</td>
+<td>
+		<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gerlogu&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div> 
+	  </td>
     <td>
 	<a href="https://github.com/gerlogu/FixedCameraSystem">
   		<img src="https://user-images.githubusercontent.com/55363746/223209106-4a917c43-907e-4843-9307-8d57f620d849.png">
 	</a>
 	<a href="https://github.com/gerlogu/FixedCameraSystem">Fixed Camera System (UE)</a>
-	</td>
+</td>
   </tr>
 <tr>	
 	</td>
@@ -106,8 +103,11 @@ const gerlogu = {
 	</a>
 	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a>
 	</td>
-	<td>
-		<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gerlogu&show_icons=true&count_private=true&hide_border=true&theme=transparent" 			align="center" /></div> 
+	    <td>
+	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">
+  		<img src="https://user-images.githubusercontent.com/55363746/223209045-8e74d278-7e4d-441a-b962-6fe53a9f2494.png">
+	</a>
+	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">Procedural FPS System (UE)</a>
 	</td>
 	<td>
 	<a href="https://github.com/GoldPillowGames/IntoTheCave">
