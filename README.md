@@ -107,7 +107,13 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a>
 	</td>
 	<td>
-	<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gerlogu&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+		<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gerlogu&show_icons=true&count_private=true&hide_border=true" 			align="center" /></div> 
+	</td>
+	<td>
+	<a href="https://github.com/GoldPillowGames/IntoTheCave">
+  		<img src="https://user-images.githubusercontent.com/55363746/223202978-14418e10-66ca-4709-992c-dd9498baf550.png">
+	</a>
+	<a href="https://github.com/GoldPillowGames/IntoTheCave">Into the Cave (Gold Pillow Games)</a>
 	</td>
 	</tr>
 </table>
