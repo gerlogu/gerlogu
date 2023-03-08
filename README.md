@@ -21,7 +21,7 @@ After finishing this Master’s Degree, my project, _[Howl of Iron](https://gerl
 
 Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games for consoles: **Vigor**.
 
-## <p align="center"> <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="40"> A little more about me...</p>
+## <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="40"> A little more about me...
 ```javascript
 const gerlogu = {
   pronouns: "he" | "him",
@@ -31,7 +31,7 @@ const gerlogu = {
 ```
 
 
-## <p align="center"><img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills</p>
+## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
 [![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
 ![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
@@ -41,7 +41,7 @@ const gerlogu = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 
-## <p align="center"><img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at</p>
+## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
 [![UnrealEngineMarketplace](https://img.shields.io/badge/UE_Marketplace-Gerlogu-FFDD00?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://www.unrealengine.com/marketplace/en-US/profile/Gerlogu?count=20&sortBy=effectiveDate&sortDir=DESC&start=0)
@@ -56,12 +56,12 @@ const gerlogu = {
 [![TikTok](https://img.shields.io/badge/TikTok-@gerlogu29-9441fa?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@gerlogu29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez/?locale=es_ES)</br>
 
-## <p align="center"><img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Demo Reel</p>
+## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Demo Reel
 [![1666350254701-transformed (1)](https://user-images.githubusercontent.com/55363746/222960947-eb7bbc9d-232b-4303-b34d-44ba88d871aa.png)](https://gerlogu.com/demo-reel)
 
 
 
-## <p align="center"><img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30"> Featured Projects</p>
+## <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30"> Featured Projects
 
 <table style="width:100%">
   <tr>
@@ -124,7 +124,7 @@ const gerlogu = {
 	</tr>
 </table>
 
-## <p align="center"><img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width="40"> Contact</p>
+## <img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width="40"> Contact
 [![ContactForm](https://img.shields.io/badge/Contact_Form-Write_me_here!-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.gerlogu.com/bio/#contact)</br>
 [![ContactForm](https://img.shields.io/badge/EMAIL-contact@gerlogu.com-0066A1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contact@gerlogu.com)</br>
 
