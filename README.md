@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López
 ### I am a Professional Technical Game Designer specialized in Unreal Engine & Unity.
-![gerlogu_github_profile_v3 (1)](https://user-images.githubusercontent.com/55363746/223775692-1e318415-6130-45a7-9551-7aadc1615831.png)
+![gerlogu_github_profile_v4 (1)](https://user-images.githubusercontent.com/55363746/223776175-b9cf1f95-2f32-424e-a940-73406cf10217.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=social)](https://youtube.com/gerlogu?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/gerlogu?style=social)](https://twitch.com/gerlogu)
