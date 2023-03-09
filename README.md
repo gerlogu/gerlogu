@@ -26,7 +26,7 @@ Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Inte
 	
 > 🧰 [**Asset Showcased in the UE Marketplace**](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) by Epic Games at 2022.
 	
-> 🤺 [**3D Animations recognized with honors**](https://gerlogu.com/portfolio/cathartic-future/) during the Bachelor's Degree in Game Design & Development.
+> 🤺 [**3D Animations recognized with honors**](https://gerlogu.com/portfolio/cathartic-future/) during the Bachelor's Degree in Game Design & Development at 2020.
 
 ## <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="40"> A little more about me...
 ```javascript
