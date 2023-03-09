@@ -60,6 +60,7 @@ const gerlogu = {
 ### Spanish
 [![Website](https://img.shields.io/badge/Mi_Página_Web-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/gerlogu)
+[![Twitch](https://img.shields.io/badge/Twitch-Gerlogu-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/gerlogu)
 [![Twitter](https://img.shields.io/badge/Twitter-@GermanLopez_ES-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/GermanLopez_ES)
 [![TikTok](https://img.shields.io/badge/TikTok-@gerlogu29-9441fa?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@gerlogu29)
 [![Discord](https://img.shields.io/badge/Discord-gerlogu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/235829496278679553)
