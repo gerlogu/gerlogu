@@ -22,11 +22,11 @@ After finishing this Master’s Degree, my project, _[Howl of Iron](https://gerl
 
 Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games for consoles: **Vigor**.
 	
-> 🏆 [**Awarded Best Game Design**](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/) at PlayStation Awards 2022.
+> [🏆 **Awarded Best Game Design**](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/) at PlayStation Awards 2022.
 	
-> 🧰 [**Asset Showcased by Epic Games**](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) in the UE Marketplace in 2022.
+> [🧰 **Asset Showcased by Epic Games**](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) in the UE Marketplace in 2022.
 	
-> 🤺 [**3D Animations recognized with honors**](https://gerlogu.com/portfolio/cathartic-future/) during the Bachelor's Degree in Game Design & Development in 2020.
+> [🤺 **3D Animations recognized with honors**](https://gerlogu.com/portfolio/cathartic-future/) during the Bachelor's Degree in Game Design & Development in 2020.
 
 ## <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="40"> A little more about me...
 ```javascript
