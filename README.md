@@ -54,7 +54,7 @@ const gerlogu = {
 [![UnrealEngineMarketplace](https://img.shields.io/badge/UE_Marketplace-Gerlogu-FFDD00?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://www.unrealengine.com/marketplace/en-US/profile/Gerlogu?count=20&sortBy=effectiveDate&sortDir=DESC&start=0)
 [![Youtube](https://img.shields.io/badge/YouTube-Germán_López_•_Portfolio-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A)
 [![Instagram](https://img.shields.io/badge/Instagram-@gerlogu-ed3e90?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/gerlogu/)
-[![Discord](https://img.shields.io/badge/Discord-gerlogu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](discordapp.com/users/235829496278679553)
+[![Discord](https://img.shields.io/badge/Discord-gerlogu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/235829496278679553)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez)</br>
 
 ### Spanish
@@ -62,7 +62,7 @@ const gerlogu = {
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/gerlogu)
 [![Twitter](https://img.shields.io/badge/Twitter-@GermanLopez_ES-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/GermanLopez_ES)
 [![TikTok](https://img.shields.io/badge/TikTok-@gerlogu29-9441fa?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@gerlogu29)
-[![Discord](https://img.shields.io/badge/Discord-gerlogu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](discordapp.com/users/235829496278679553)
+[![Discord](https://img.shields.io/badge/Discord-gerlogu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/235829496278679553)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez/?locale=es_ES)</br>
 
 ## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Demo Reel
