@@ -24,7 +24,7 @@ Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Inte
 	
 > [🏆](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/) [**Awarded Best Game Design**](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/) at PlayStation Awards 2022.
 	
-> [💻](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) [ **Asset Showcased by Epic Games**](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) in the UE Marketplace in 2022.
+> [💻](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) [ **Asset Showcased by Epic Games, Inc.**](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) in the UE Marketplace in 2022.
 	
 > [🤺](https://gerlogu.com/portfolio/cathartic-future/) [ **3D Animations recognized with honors**](https://gerlogu.com/portfolio/cathartic-future/) during the Bachelor's Degree in Game Design & Development in 2020.
 
