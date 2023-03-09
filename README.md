@@ -29,7 +29,7 @@ Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Inte
 > [🤺](https://gerlogu.com/portfolio/cathartic-future/) [ **3D Animations recognized with honors**](https://gerlogu.com/portfolio/cathartic-future/) during the Bachelor's Degree in Game Design & Development in 2020.
 <div align="center">
 <a href="https://gerlogu.com/">
-<kbd> <br> MORE INFO ON MY WEBSITE <br> </kbd>
+<kbd> <br>             MORE INFO ON MY WEBSITE             <br> </kbd>
 </a>
 </div>
 
