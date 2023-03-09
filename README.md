@@ -57,7 +57,7 @@ const gerlogu = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez)</br>
 
 ### Spanish
-[![Website](https://img.shields.io/badge/Mi_Página_Web-gerlogu.com/es-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/es)
+[![Website](https://img.shields.io/badge/Mi_Página_Web-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com)
 [![Youtube](https://img.shields.io/badge/YouTube-Gerlogu-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/gerlogu)
 [![Twitter](https://img.shields.io/badge/Twitter-@GermanLopez_ES-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/GermanLopez_ES)
 [![TikTok](https://img.shields.io/badge/TikTok-@gerlogu29-9441fa?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@gerlogu29)
