@@ -1,5 +1,5 @@
 # <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez
-![GERLOGU_github_profilev5 (1)](https://user-images.githubusercontent.com/55363746/224504098-2207b029-6ec2-432c-9bea-02c45f7c4a39.png)
+![GERLOGU_github_profilev6 (1)](https://user-images.githubusercontent.com/55363746/224504184-84c66117-39e2-4191-8497-4b31ff71f127.png)
 	
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=social)](https://youtube.com/gerlogu?sub_confirmation=1)
 [![Youtube Views](https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=social)](https://youtube.com/gerlogu?sub_confirmation=1)
