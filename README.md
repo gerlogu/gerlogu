@@ -1,10 +1,18 @@
 # <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>
-[![GERLOGU_github_profilev10 (1)](https://user-images.githubusercontent.com/55363746/224504368-b39e8df8-5a41-4d83-8585-85094a5ee33d.png)](https://gerlogu.com/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=social)](https://youtube.com/gerlogu?sub_confirmation=1)
-[![Youtube Views](https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=social)](https://youtube.com/gerlogu?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/gerlogu?style=social)](https://twitch.com/gerlogu)
-![GitHub Followers](https://img.shields.io/github/followers/gerlogu?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/gerlogu?style=social)
+<div id="top"></div>
+<div align="center">
+  <a href="https://github.com/djhaled/Uiana-MapImporter">
+    <img src="https://user-images.githubusercontent.com/55363746/224504368-b39e8df8-5a41-4d83-8585-85094a5ee33d.png" alt="ScreenShot">
+  </a>
+  <p align="center">
+    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=social">
+    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=social">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=social">  
+	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=social">  
+	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=social">  
+  </p>
+</div>
+
 ### <div align="center">I am a Professional Technical Game Designer specialized in Unreal Engine & Unity.
 
 In 2017 I began my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight _[Into the Cave](https://gerlogu.com/portfolio/into-the-cave/)_, _[Revenge .44](https://gerlogu.com/portfolio/revenge-44/)_, _[Shinobi no Noboru](https://gerlogu.com/portfolio/shinobi-no-noboru/)_, and my Final Thesis Project: _[Stigma Protocol](https://gerlogu.com/portfolio/stigma-protocol/)_.
