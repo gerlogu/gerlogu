@@ -5,9 +5,12 @@
     <img src="https://user-images.githubusercontent.com/55363746/224504368-b39e8df8-5a41-4d83-8585-85094a5ee33d.png" alt="ScreenShot">
   </a>
   <p align="center">
-    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=social">
-    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=social">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=social">  
+<a href="https://youtube.com/gerlogu?sub_confirmation=1">
+    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=social"></a>
+<a href="https://youtube.com/gerlogu?sub_confirmation=1">
+    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=social"></a>	
+<a href="https://twitch.com/gerlogu">
+	<img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=social"></a>  
 	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=social">  
 	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=social">  
   </p>
