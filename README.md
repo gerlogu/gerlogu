@@ -12,8 +12,6 @@
 	<img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=social"></a>  
 <a href="https://gerlogu.com/ue-content/">
 	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/Unreal_Engine_Tools-6-0066A1?style=social&logo=UnrealEngine"></a>
-<a href="https://gerlogu.itch.io/">
-	<img alt="itch.io Games" src="https://img.shields.io/badge/Personal_Projects-15-0066A1?style=social&logo=itch.io"></a>  
 	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=social">  
 	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=social">  
   </p>
