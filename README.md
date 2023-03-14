@@ -65,7 +65,7 @@ const gerlogu = {
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
 [![UnrealEngineMarketplace](https://img.shields.io/badge/UE_Marketplace-Gerlogu-FFDD00?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://www.unrealengine.com/marketplace/en-US/profile/Gerlogu?count=20&sortBy=effectiveDate&sortDir=DESC&start=0)
 [![Youtube](https://img.shields.io/badge/YouTube-Germán_López_•_Portfolio-cf2000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCUQkvmq6x0K-aLXb2B7yg9A)
-[![Itchio](https://img.shields.io/badge/Gerlogu-ff2449?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=101010)](https://gerlogu.itch.io/)
+[![Itchio](https://img.shields.io/badge/itch.io-Gerlogu-f85d59?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=101010)](https://gerlogu.itch.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-@gerlogu-ed3e90?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/gerlogu/)
 [![Discord](https://img.shields.io/badge/Discord-gerlogu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/235829496278679553)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez)</br>
