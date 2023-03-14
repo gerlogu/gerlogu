@@ -60,7 +60,7 @@ const gerlogu = {
 ![Jira](https://img.shields.io/badge/Jira-0071ed?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)
 ![Confluence](https://img.shields.io/badge/Confluence-0f67f9?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Source_Control-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
-![Notion](https://img.shields.io/badge/Notion-8c8c8c?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)
+![Notion](https://img.shields.io/badge/Notion-a8a8a8?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)
 ![Word](https://img.shields.io/badge/Microsoft_Word-122f83?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=101010)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-339933?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 
