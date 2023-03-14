@@ -56,7 +56,11 @@ const gerlogu = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
-![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+![Jira](https://img.shields.io/badge/Jira-0071ed?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)
+![Confluence](https://img.shields.io/badge/Confluence-0f67f9?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)
+![Word](https://img.shields.io/badge/Microsoft_Word-122f83?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=101010)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-339933?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 
 ## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at
 ### English
