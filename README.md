@@ -13,7 +13,7 @@
 <a href="https://gerlogu.itch.io/">
 	<img alt="Twitch Status" src="https://img.shields.io/badge/Personal_Projects-15-0066A1?style=social&logo=itch.io"></a>  
 <a href="https://gerlogu.com/ue-content/">
-	<img alt="Twitch Status" src="https://img.shields.io/badge/Released_Assets-6-0066A1?style=social&logo=UnrealEngine"></a>  
+	<img alt="Twitch Status" src="https://img.shields.io/badge/Assets_&_Tools-6-0066A1?style=social&logo=UnrealEngine"></a>  
 	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=social">  
 	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=social">  
   </p>
