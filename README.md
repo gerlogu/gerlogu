@@ -11,7 +11,7 @@
 <a href="https://twitch.com/gerlogu">
 	<img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=social"></a>  
 <a href="https://gerlogu.com/ue-content/">
-	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/Unreal_Engine_Tools-6-0066A1?style=social&logo=UnrealEngine"></a>
+	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/Unreal_Engine_Assets_&_Tools-6-0066A1?style=social&logo=UnrealEngine"></a>
 	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=social">  
 	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=social">  
   </p>
