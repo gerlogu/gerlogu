@@ -92,12 +92,12 @@ const gerlogu = {
 
 <table style="width:100%">
   <tr>
-    <td align="center">
-	<a href="https://github.com/gerlogu/CustomInGameConsole">
-  		<img src="https://user-images.githubusercontent.com/55363746/223489190-0af2c3d6-2769-4710-bb91-eca54b2885d9.png">
+<td align="center">
+	<a href="https://github.com/gerlogu/GraphDialogueSystem">
+  		<img src="https://user-images.githubusercontent.com/55363746/223489794-a2f99e67-29c9-4f5c-8b62-e00f5055a01b.png">
 	</a>
-	<a href="https://github.com/gerlogu/CustomInGameConsole">Custom In Game Console (UE)</a>
-	</td>
+	<a href="https://github.com/gerlogu/GraphDialogueSystem">Graph Dialogue System (UE)</a>
+</td>
     <td align="center">
 	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">
   		<img src="https://user-images.githubusercontent.com/55363746/223489599-047945e0-b5e7-443e-95bb-d0d9021328e2.png">
@@ -113,10 +113,10 @@ const gerlogu = {
   </tr>
   <tr>
     <td align="center">
-	<a href="https://github.com/gerlogu/GraphDialogueSystem">
-  		<img src="https://user-images.githubusercontent.com/55363746/223489794-a2f99e67-29c9-4f5c-8b62-e00f5055a01b.png">
+	<a href="https://github.com/gerlogu/CustomInGameConsole">
+  		<img src="https://user-images.githubusercontent.com/55363746/223489190-0af2c3d6-2769-4710-bb91-eca54b2885d9.png">
 	</a>
-	<a href="https://github.com/gerlogu/GraphDialogueSystem">Graph Dialogue System (UE)</a>
+	<a href="https://github.com/gerlogu/CustomInGameConsole">Custom In Game Console (UE)</a>
 	</td>
     <td align="center">
 	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">
