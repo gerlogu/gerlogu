@@ -68,7 +68,8 @@ const gerlogu = {
 ![Word](https://img.shields.io/badge/Microsoft_Word-122f83?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=101010)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-c94023?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white&labelColor=101010)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-339933?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
-
+<br>
+And more...
 ## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
