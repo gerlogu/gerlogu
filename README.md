@@ -59,13 +59,14 @@ const gerlogu = {
 ![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
 ![Jira](https://img.shields.io/badge/Jira-0071ed?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)
 ![Confluence](https://img.shields.io/badge/Confluence-0f67f9?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/Source_Control-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
-![Notion](https://img.shields.io/badge/Notion-8c8c8c?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Source_Control-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![Notion](https://img.shields.io/badge/Notion-8c8c8c?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)</br>
 ![Word](https://img.shields.io/badge/Microsoft_Word-122f83?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=101010)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-339933?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)<br>
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-c94023?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white&labelColor=101010)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-339933?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)<br>
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)
 ![Premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-00005b?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=101010)
+![AfterEffects](https://img.shields.io/badge/Adobe_After_Effects-00005b?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=101010)
 
 ## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at
 ### English
