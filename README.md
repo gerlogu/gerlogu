@@ -57,6 +57,10 @@ const gerlogu = {
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+![HTML5](https://img.shields.io/badge/html5-f16529?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS](https://img.shields.io/badge/CSS-0065f4?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=Wordpress&logoColor=white&labelColor=101010)
+![Elementor](https://img.shields.io/badge/Elementor-92003b?style=for-the-badge&logo=Elementor&logoColor=white&labelColor=101010)</br>
 ![Jira](https://img.shields.io/badge/Jira-0071ed?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)
 ![Confluence](https://img.shields.io/badge/Confluence-0f67f9?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Source_Control-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
