@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 # <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>
 
 <div align="center">
