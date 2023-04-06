@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://gerlogu.com/">
-    <img src="https://user-images.githubusercontent.com/55363746/224504368-b39e8df8-5a41-4d83-8585-85094a5ee33d.png">
+    <img src="https://user-images.githubusercontent.com/55363746/230507001-4bb8e3ab-5b86-4c79-8c00-6d343e8bef13.png">
   </a>
   <p align="center">
 <a href="https://youtube.com/gerlogu?sub_confirmation=1">
