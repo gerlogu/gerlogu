@@ -1,5 +1,3 @@
-# <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>
-
 <div align="center">
   <a href="https://gerlogu.com/">
     <img src="https://user-images.githubusercontent.com/55363746/230672000-3b332948-2919-4644-8023-72994beb435f.png">
@@ -18,7 +16,7 @@
   </p>
 </div>
 
-
+# <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>
 ### <div align="center">I am a Professional Technical Game Designer specialized in Unreal Engine & Unity.
 
 In 2017 I began my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight _[Into the Cave](https://gerlogu.com/portfolio/into-the-cave/)_, _[Revenge .44](https://gerlogu.com/portfolio/revenge-44/)_, _[Shinobi no Noboru](https://gerlogu.com/portfolio/shinobi-no-noboru/)_, and my Final Thesis Project: _[Stigma Protocol](https://gerlogu.com/portfolio/stigma-protocol/)_.
