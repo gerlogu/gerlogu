@@ -52,7 +52,7 @@ const gerlogu = {
 ## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/ue-content/)
 ![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![CryEngine](https://img.shields.io/badge/Cry_Engine-0242bd?style=for-the-badge&logo=cryengine&logoColor=white&labelColor=101010)</br>
+![CryEngine](https://img.shields.io/badge/CryEngine-0242bd?style=for-the-badge&logo=cryengine&logoColor=white&labelColor=101010)</br>
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
 ![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
