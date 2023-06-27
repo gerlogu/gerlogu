@@ -12,9 +12,9 @@
 <a href="https://gerlogu.com/unreal-engine-assets/">
 	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/Unreal_Engine_Assets-6-0066A1?style=flate&labelColor=1f1f1f&color=ff5e00&logo=UnrealEngine"></a>
 <a href="https://github.com/gerlogu">
-	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=flat&labelColor=2EA967&color=1f1f1f&logo=github"></a>
+	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=flat&labelColor=1f1f1f&color=2EA967&logo=github"></a>
 <a href="https://github.com/gerlogu">
-	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=flat&labelColor=2EA967&color=1f1f1f&logo=github"></a>
+	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=flat&labelColor=1f1f1f&color=2EA967&logo=github"></a>
   </p>
 </div>
 
