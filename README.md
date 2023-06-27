@@ -108,19 +108,19 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/GraphDialogueSystem">
   		<img src="https://user-images.githubusercontent.com/55363746/223489794-a2f99e67-29c9-4f5c-8b62-e00f5055a01b.png">
 	</a>
-	<a href="https://github.com/gerlogu/GraphDialogueSystem">Graph Dialogue System (UE)</a>
+	<strong><a href="https://github.com/gerlogu/GraphDialogueSystem">Graph Dialogue System (UE)</a></strong>
 </td>
     <td align="center">
 	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">
   		<img src="https://user-images.githubusercontent.com/55363746/223489599-047945e0-b5e7-443e-95bb-d0d9021328e2.png">
 	</a>
-	<a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">Ratchet & Clank UE Prototype</a>
+	<strong><a href="https://github.com/gerlogu/RatchetAndClank-UE-Prototype">Ratchet & Clank UE Prototype</a></strong>
 	</td>
     <td align="center">
 	<a href="https://github.com/gerlogu/BulletHellEditor">
   		<img src="https://user-images.githubusercontent.com/55363746/223489828-e8789592-62dd-43c4-a348-bb00aef1c5f5.png">
 	</a>
-	<a href="https://github.com/gerlogu/BulletHellEditor">Bullet Hell Editor / Shmup Kit (UE)</a>
+	<strong><a href="https://github.com/gerlogu/BulletHellEditor">Bullet Hell Editor / Shmup Kit (UE)</a></strong>
 	</td>
   </tr>
   <tr>
@@ -128,19 +128,19 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/CustomInGameConsole">
   		<img src="https://user-images.githubusercontent.com/55363746/223489190-0af2c3d6-2769-4710-bb91-eca54b2885d9.png">
 	</a>
-	<a href="https://github.com/gerlogu/CustomInGameConsole">Custom In Game Console (UE)</a>
+	<strong><a href="https://github.com/gerlogu/CustomInGameConsole">Custom In Game Console (UE)</a></strong>
 	</td>
     <td align="center">
 	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">
   		<img src="https://user-images.githubusercontent.com/55363746/223490355-a1eea54c-7265-4c9f-8572-3d6af840950f.png">
 	</a>
-	<a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">Procedural FPS System (UE)</a>
+	<strong><a href="https://github.com/gerlogu/ProceduralFPSAnimationsPlugin">Procedural FPS System (UE)</a></strong>
 	</td>
     <td align="center">
 	<a href="https://github.com/gerlogu/FixedCameraSystem">
   		<img src="https://user-images.githubusercontent.com/55363746/223489927-fac0dd56-dd56-47f4-bc55-fed7dfbc52c7.png">
 	</a>
-	<a href="https://github.com/gerlogu/FixedCameraSystem">Fixed Camera System (UE)</a>
+	<strong><a href="https://github.com/gerlogu/FixedCameraSystem">Fixed Camera System (UE)</a></strong>
 	</td>
   </tr>
 <tr>	
@@ -149,7 +149,7 @@ const gerlogu = {
 	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">
   		<img src="https://user-images.githubusercontent.com/55363746/223490189-333d2a6e-4230-4a72-8c08-73dc04178c94.png">
 	</a>
-	<a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a>
+	<strong><a href="https://github.com/gerlogu/WeaponFOVAndClippingFix">Weapon FOV & Clipping Fix (UE)</a></strong>
 	</td>
 	<td align="center">
 		<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gerlogu&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide=prs,issues,contribs&disable_animations=false" 			align="center" /></div> 
@@ -158,7 +158,7 @@ const gerlogu = {
 	<a href="https://github.com/GoldPillowGames/IntoTheCave">
   		<img src="https://user-images.githubusercontent.com/55363746/223490065-1950b464-47e3-4235-af0c-87933b32d0cc.png">
 	</a>
-	<a href="https://github.com/GoldPillowGames/IntoTheCave">Into the Cave (Gold Pillow Games)</a>
+	<strong><a href="https://github.com/GoldPillowGames/IntoTheCave">Into the Cave (Gold Pillow Games)</a></strong>
 	</td>
 	</tr>
 </table>
