@@ -4,17 +4,17 @@
   </a>
   <p align="center">
 <a href="https://youtube.com/gerlogu?sub_confirmation=1">
-    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=social"></a>
+    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=flat&labelColor=F50C00&color=1f1f1f&logo=youtube"></a>
 <a href="https://youtube.com/gerlogu?sub_confirmation=1">
-    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=social"></a>	
+    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=flat&labelColor=F50C00&color=1f1f1f&logo=youtube"></a>	
 <a href="https://twitch.com/gerlogu">
-	<img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=social"></a>  
+	<img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=flat&labelColor=6441a5&color=1f1f1f&logo=twitch&logoColor=ffffff"></a>  
 <a href="https://gerlogu.com/unreal-engine-assets/">
-	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/Unreal_Engine_Assets_&_Tools-6-0066A1?style=social&logo=UnrealEngine"></a>
+	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/Unreal_Engine_Assets-6-0066A1?style=flate&labelColor=101010&color=fcd303&logo=UnrealEngine"></a>
 <a href="https://github.com/gerlogu">
-	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=social"></a>
+	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=flat&labelColor=101010&color=fcd303&logo=github"></a>
 <a href="https://github.com/gerlogu">
-	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=social"></a>
+	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=flat&labelColor=101010&color=fcd303&logo=github"></a>
   </p>
 </div>
 
