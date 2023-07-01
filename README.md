@@ -12,7 +12,7 @@
 	<img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=flat&labelColor=1f1f1f&color=6441a5&logo=twitch&logoColor=ffffff"></a>  
 <a href="https://gerlogu.com/unreal-engine-assets/">
 	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/UE_Assets_&_Tools-+5-0066A1?style=flate&labelColor=1f1f1f&color=9c8033&logo=UnrealEngine"></a>
-	  <a href="https://github.com/gerlogu">
+	  <a href="https://gerlogu.com/#unity-assets">
 	<img alt="Unity Tools" src="https://img.shields.io/badge/Unity_Tools-1-0066A1?style=flate&labelColor=1f1f1f&color=1067c9&logo=Unity"></a>
 <a href="https://github.com/gerlogu">
 	<img alt="GitHub Followers" src="https://img.shields.io/github/followers/gerlogu?style=flat&labelColor=1f1f1f&color=2EA967&logo=github"></a>
