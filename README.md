@@ -35,7 +35,7 @@ During this year, I started publishing assets and plugins in the **UE Marketplac
 
 After finishing this Master’s Degree, my project, _[Howl of Iron](https://gerlogu.com/portfolio/howl-of-iron/)_, received the **[Best Game Design Award at the PlayStation Awards 2022](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/)**.
 
-Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games for consoles: **Vigor**.
+Now, in 2023, I am working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games for consoles: [**Vigor**](https://gerlogu.com/portfolio/).
 	
 > [🏆](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/) [**Awarded Best Game Design**](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/) at PlayStation Awards 2022.<br>
 > [🏅](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) [ **Asset Showcased by Epic Games, Inc.**](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) in the Unreal Engine Marketplace in 2022.<br>
