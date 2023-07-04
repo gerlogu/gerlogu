@@ -1,7 +1,7 @@
 # <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>
 <div align="center">
   <a href="https://gerlogu.com/">
-    <img src="https://user-images.githubusercontent.com/55363746/230672000-3b332948-2919-4644-8023-72994beb435f.png">
+    <img src="https://github.com/gerlogu/gerlogu/assets/55363746/334f85fd-4088-406f-a333-3160d0b34af0">
   </a>
   <p align="center">
 <a href="https://youtube.com/gerlogu?sub_confirmation=1">
