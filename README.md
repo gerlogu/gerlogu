@@ -4,12 +4,6 @@
     <img src="https://github.com/gerlogu/gerlogu/assets/55363746/4043eb62-8c42-463e-aa9c-2d28fb543127">
   </a>
   <p align="center">
-<a href="https://youtube.com/gerlogu?sub_confirmation=1">
-    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChWqR3TZ8-L94nlUdGbMnrA?style=flat&labelColor=1f1f1f&color=F50C00&logo=youtube"></a>
-<a href="https://youtube.com/gerlogu?sub_confirmation=1">
-    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UChWqR3TZ8-L94nlUdGbMnrA?style=flat&labelColor=1f1f1f&color=F50C00&logo=youtube"></a>	
-<a href="https://twitch.com/gerlogu">
-	<img alt="Twitch Status" src="https://img.shields.io/twitch/status/gerlogu?style=flat&labelColor=1f1f1f&color=6441a5&logo=twitch&logoColor=ffffff"></a>  
 <a href="https://gerlogu.com/unreal-engine-assets/">
 	<img alt="Unreal Engine Tools" src="https://img.shields.io/badge/UE_Assets_&_Tools-+5-0066A1?style=flate&labelColor=1f1f1f&color=9c8033&logo=UnrealEngine"></a>
 	  <a href="https://gerlogu.com/unity-assets">
