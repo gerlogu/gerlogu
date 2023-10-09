@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>
+# Hello there, my name is Germán López Gutiérrez
 <div align="center">
   <a href="https://gerlogu.com/">
     <img src="https://github.com/gerlogu/gerlogu/assets/55363746/4043eb62-8c42-463e-aa9c-2d28fb543127">
@@ -15,7 +15,7 @@
   </p>
 </div>
 
-### <div align="center">I am a Professional Technical Game Designer specialized in Unreal Engine & Unity.
+### I am a Professional Technical Game Designer specialized in Unreal Engine & Unity.
 
 In 2017 I began my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight _[Into the Cave](https://gerlogu.com/portfolio/into-the-cave/)_, _[Revenge .44](https://gerlogu.com/portfolio/revenge-44/)_, _[Shinobi no Noboru](https://gerlogu.com/portfolio/shinobi-no-noboru/)_, and my Final Thesis Project: _[Stigma Protocol](https://gerlogu.com/portfolio/stigma-protocol/)_.
 
@@ -45,7 +45,7 @@ const gerlogu = {
 ```
 
 
-## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
+## Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/ue-content/)
 ![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
 ![CryEngine](https://img.shields.io/badge/CryEngine-0242bd?style=for-the-badge&logo=cryengine&logoColor=white&labelColor=101010)</br>
@@ -72,7 +72,7 @@ const gerlogu = {
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-339933?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 <br>
 ...and more ;)
-## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at
+## Find me at
 ### English
 [![Website](https://img.shields.io/badge/My_Website-gerlogu.com-0066A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://gerlogu.com/)
 [![UnrealEngineMarketplace](https://img.shields.io/badge/UE_Marketplace-Gerlogu-FFDD00?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://www.unrealengine.com/marketplace/en-US/profile/Gerlogu?count=20&sortBy=effectiveDate&sortDir=DESC&start=0)
@@ -91,12 +91,12 @@ const gerlogu = {
 [![Discord](https://img.shields.io/badge/Discord-gerlogu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/NzvWTdTF4a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/german-lopez-gutierrez/?locale=es_ES)</br>
 
-## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="40"> Demo Reel
+## Demo Reel
 [![1666350254701-transformed (1)](https://user-images.githubusercontent.com/55363746/222960947-eb7bbc9d-232b-4303-b34d-44ba88d871aa.png)](https://gerlogu.com/demo-reel)
 
 
 
-## <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30"> Featured Projects
+## Featured Projects
 
 <table style="width:100%">
   <tr>
