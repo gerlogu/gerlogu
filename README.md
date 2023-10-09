@@ -1,4 +1,3 @@
-# Hello there, my name is Germán López Gutiérrez
 <div align="center">
   <a href="https://gerlogu.com/">
     <img src="https://github.com/gerlogu/gerlogu/assets/55363746/4043eb62-8c42-463e-aa9c-2d28fb543127">
@@ -14,6 +13,8 @@
 	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=flat&labelColor=1f1f1f&color=2EA967&logo=github"></a>
   </p>
 </div>
+
+# Hello there, my name is Germán López Gutiérrez
 
 ### I am a Professional Technical Game Designer specialized in Unreal Engine & Unity.
 
