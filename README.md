@@ -15,7 +15,7 @@
   </p>
 </div>
 
-### <div align="center">I am a Professional Technical Game Designer specialized in Unreal Engine & Unity.
+### <div align="center">I am a Professional Game Designer specialized in Unreal Engine & Unity.
 
 
 In 2017 I began my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight _[Into the Cave](https://gerlogu.com/portfolio/into-the-cave/)_, _[Revenge .44](https://gerlogu.com/portfolio/revenge-44/)_, _[Shinobi no Noboru](https://gerlogu.com/portfolio/shinobi-no-noboru/)_, and my Final Thesis Project: _[Stigma Protocol](https://gerlogu.com/portfolio/stigma-protocol/)_.
