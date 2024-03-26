@@ -2,7 +2,7 @@
 <!--# <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>-->
 <div align="center">
   <a href="https://gerlogu.com/">
-    <img src="https://github.com/gerlogu/gerlogu/assets/55363746/31d1a02b-9bf1-4cd3-80ca-e846d5972697">
+    <img src="https://github.com/gerlogu/gerlogu/assets/55363746/04110429-43e0-4820-9db6-9c7387ee33c4">
   </a>
   <p align="center">
 <a href="https://gerlogu.com/unreal-engine-assets/">
