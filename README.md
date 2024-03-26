@@ -1,8 +1,10 @@
 # <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw4NG1reXU3dGQ4OHFpbTA3czd4cDk2bDh3YTJjcjEyaWt4ZHc5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35JL2FvHK04fUoSGQH/giphy.gif" width="40">  Hello there, my name is Germán López Gutiérrez</div>
-<!--# <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>-->
+<!--# <di![gerlogu-banner (7)]()
+v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>-->
+
 <div align="center">
   <a href="https://gerlogu.com/">
-    <img src="https://github.com/gerlogu/gerlogu/assets/55363746/41163835-b8ce-4825-a069-59b91aaa1533">
+    <img src="https://github.com/gerlogu/gerlogu/assets/55363746/2b643f2f-0368-4b5d-bd25-1374584fd319">
   </a>
   <p align="center">
 <a href="https://gerlogu.com/unreal-engine-assets/">
