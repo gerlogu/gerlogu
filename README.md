@@ -1,4 +1,5 @@
-# <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>
+# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVmeDgyemZveTRydDF4cmJxZXFmaXRzYzVrNml0dzBobmwxOGhjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif" width="46"> Hello there, my name is Germán López Gutiérrez</div>
+<!--# <div align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>-->
 <div align="center">
   <a href="https://gerlogu.com/">
     <img src="https://github.com/gerlogu/gerlogu/assets/55363746/4043eb62-8c42-463e-aa9c-2d28fb543127">
