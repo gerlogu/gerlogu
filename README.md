@@ -98,7 +98,7 @@ const gerlogu = {
 
 
 <!--## <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30"> Featured Projects-->
-## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="40"> Featured Projects
+## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="36"> Featured Projects
 
 <table style="width:100%">
   <tr>
