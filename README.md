@@ -4,7 +4,8 @@ v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giph
 
 <div align="center">
   <a href="https://gerlogu.com/">
-    <img src="https://github.com/gerlogu/gerlogu/assets/55363746/2b643f2f-0368-4b5d-bd25-1374584fd319">
+    <!--<img src="https://github.com/gerlogu/gerlogu/assets/55363746/2b643f2f-0368-4b5d-bd25-1374584fd319">-->
+	  <img src="https://github.com/gerlogu/gerlogu/assets/55363746/202456b8-a03c-4958-b810-c2af52174b9f">
   </a>
   <p align="center">
 <a href="https://gerlogu.com/unreal-engine-assets/">
@@ -33,7 +34,9 @@ During this year, I started publishing assets and plugins in the **UE Marketplac
 
 After finishing this Master’s Degree, my project, _[Howl of Iron](https://gerlogu.com/portfolio/howl-of-iron/)_, received the **[Best Game Design Award at the PlayStation Awards 2022](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/)**.
 
-Now, in 2024, I am working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games for consoles: [**Vigor**](https://gerlogu.com/portfolio/).
+From 2023 to 2024, I have been working as a **Regular Technical Designer** at **Bohemia Interactive** in one of their latest games for consoles: [**Vigor**](https://gerlogu.com/portfolio/).
+
+Right now, I am working as **Game Designer** at **Crema** in their current projects.
 	
 > 🏆 [**Awarded Best Game Design**](https://gerlogu.com/achievements/awarded-for-best-game-design-at-ps-awards/) at PlayStation Awards 2022.<br>
 > 🏅 [ **Asset Showcased by Epic Games, Inc.**](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/) in the Unreal Engine Marketplace in 2022.<br>
