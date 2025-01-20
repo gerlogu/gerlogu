@@ -111,7 +111,7 @@ const gerlogu = {
   <tr>
 <td align="center">
 	<a href="https://github.com/gerlogu/GraphDialogueSystem">
-  		<img src="https://user-images.githubusercontent.com/55363746/223489794-a2f99e67-29c9-4f5c-8b62-e00f5055a01b.png">
+  		<img src="https://github.com/user-attachments/assets/3f69c7b5-0985-42a9-aa61-c13c81f512a4">
 	</a>
 	<strong><a href="https://github.com/gerlogu/GraphDialogueSystem">Graph Dialogue System (UE)</a></strong>
 </td>
